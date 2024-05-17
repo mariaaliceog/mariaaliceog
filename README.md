@@ -4,5 +4,5 @@
 - 🖥️ Estudo Análise e Desenvolvimento de Sistemas na FATEC de Mogi das Cruzes - SP
 
 
-<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaliceog&layout=compact&theme=radical"/>
+<img alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaaliceog&layout=donut-vertical&theme=radical"/>
 
